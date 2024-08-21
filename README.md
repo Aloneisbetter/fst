@@ -1,1 +1,1 @@
-# fst
+fibo.js
